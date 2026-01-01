@@ -52,19 +52,19 @@ It is especially suitable for users who manage **multiple accounts** and perform
 
 ### Screenshot 1 – Account Management  
 ### 截图 1 – 账号管理界面
-![Account Management](./screenshots/screenshot-1.png)
+![Account Management](https://github.com/wikijoseph-tech/wiki-tools/blob/main/buidlpad/1.png)
 
 ---
 
 ### Screenshot 2 – Password Batch Operation  
 ### 截图 2 – 批量密码修改
-![Password Update](./screenshots/screenshot-2.png)
+![Password Update](https://github.com/wikijoseph-tech/wiki-tools/blob/main/buidlpad/3.png)
 
 ---
 
 ### Screenshot 3 – Project Participation Automation  
 ### 截图 3 – 项目自动化参与
-![Project Automation](./screenshots/screenshot-3.png)
+![Project Automation](https://github.com/wikijoseph-tech/wiki-tools/blob/main/buidlpad/2.png)
 
 ---
 
