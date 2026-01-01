@@ -131,7 +131,7 @@ Feel free to reach out for technical discussions, feedback, or collaboration:
   https://space.bilibili.com/1561886967
 
 - **WeChat**  
-  ![WeChat](https://github.com/wikijoseph/wiki-tools/blob/main/vx.jpg)
+  ![WeChat](https://github.com/wikijoseph-tech/wiki-tools/blob/main/vx.jpg)
 
 ---
 
